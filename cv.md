@@ -20,6 +20,8 @@ permalink: /cv
 </object>
 </div>
 
+<br>
+
 <!-- Pulsanti rapidi -->
 <p style="text-align:center; margin: 0 0 0.8rem;">
   <a href="/assets/files/AlbertoNasi_CV.pdf" target="_blank" rel="noopener" 
