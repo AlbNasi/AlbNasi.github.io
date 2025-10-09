@@ -7,15 +7,7 @@ permalink: /cv
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <!-- Visualizzazione embedded con fallback -->
-<div position: relative;
-  left: 50%;
-  right: 50%;
-  width: 1200px;              
-  transform: translateX(-50%);
-  margin: 2em 0;
-  text-align: center;
-">
-  <object 
+<object 
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="100%"
@@ -26,7 +18,6 @@ permalink: /cv
     
   <a href="/assets/files/AlbertoNasi_CV.pdf">Click here to download the PDF</a>.
 </object>
-</div>
 
 
 
