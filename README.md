@@ -1,5 +1,3 @@
-# AlbNasi.github.io
-
 I am a Ph.D. candidate in Economics at Bocconi University, Italy.
 
 
