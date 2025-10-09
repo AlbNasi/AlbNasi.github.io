@@ -3,6 +3,8 @@ layout: home
 title: Welcome
 ---
 
+<div class="banner"></div>
+
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <figure>
