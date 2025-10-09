@@ -13,7 +13,10 @@ This paper develops a parsimonious housing market model that conceptualizes resi
 JEL codes: E22, G12, G21, R21, R23, R31
 
 
-Presented a preliminary version at the 13th European Meeting of the Urban Economics Association (titled: "Geography in a Partially Segmented Housing Market"). Presented at the 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
+Presented:
+1. 13th European Meeting of the Urban Economics Association (preliminary version titled: "Geography in a Partially Segmented Housing Market").
+2. 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
+3. 2025 Econometric Society European Winter Meeting.
 
 ### Property Taxation and Real Estate Price Dispersion.
 
