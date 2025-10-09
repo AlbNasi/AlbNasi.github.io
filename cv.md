@@ -9,11 +9,11 @@ permalink: /cv
 <!-- Visualizzazione embedded con fallback -->
 <div style="display: flex; justify-content: center; overflow-x: auto;">
   <object 
-    data="/assets/files/AlbertoNasi_CV.pdf"
+    data="{{ site.baseurl }}/assets/files/cv.pdf"
     type="application/pdf"
-    width="200%"
-    height="1000px"
-    style="margin: 0 auto; display: block;"
+    width="100%"
+    height="1200px"
+    style="max-width: 1200px; margin: 0 auto; border: 1px solid #ccc;"
   >
     Your browser does not support PDF previews.
     
