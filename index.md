@@ -1,3 +1,8 @@
+---
+layout: home
+title: Welcome
+---
+
 I am a Ph.D. candidate in Economics at Bocconi University, Italy.
 
 
