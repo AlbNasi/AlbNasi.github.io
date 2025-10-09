@@ -1,5 +1,5 @@
 /* Centra tutto il contenuto principale del sito */
-body {
+body, p {
   text-align: justify;
   text-justify: inter-word; /* migliora la spaziatura tra parole */
   line-height: 1.6;
@@ -18,6 +18,6 @@ img, figure {
 }
 
 /* Centra titoli e paragrafi */
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
