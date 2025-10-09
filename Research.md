@@ -10,13 +10,15 @@ permalink: /research
 
 This paper develops a parsimonious housing market model that conceptualizes residential real estate as both a non-tradable consumption good and an investment asset. The framework embeds households’ joint location–tenure choices, which shape local price-to-rent ratios. I test its predictions using a granular dataset of Italian housing prices and rents and a shift-share instrumental variable design exploiting heterogeneity in mortgage uptake across age groups. The results show that mortgage rate shocks induce spatially asymmetric responses in prices, rents, price-to-rent ratios, population, and tenure choices, consistent with the model’s implications. A structural estimation reproduces these heterogeneous effects and indicates that a positive mortgage rate shock alleviates spatial welfare inequality and narrows the divide between renters and homeowners.
 
+![On the left I plot the estimated local labor market price elasticities with respect to the local mortgage interest rates on the map of Italy. On the right I plot the estimated local labor market rent elasticities with respect to the local mortgage interest rates. If the estimated elasticity is positive I plot the results in scales of green, while if the estimated elasticity is negative I plot the results in scales of red. It is possible to observe that the local responses of both prices and rents with respect to the local mortgage interest rate vary both in magnitude and direction.](/assets/images/PriceandRentMaps.png)
+
 JEL codes: E22, G12, G21, R21, R23, R31
 
 
 Presented:
-1. 13th European Meeting of the Urban Economics Association (preliminary version titled: "Geography in a Partially Segmented Housing Market").
-2. 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
-3. 2025 Econometric Society European Winter Meeting.
+- 13th European Meeting of the Urban Economics Association (preliminary version titled: "Geography in a Partially Segmented Housing Market").
+- 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
+- 2025 Econometric Society European Winter Meeting.
 
 ### Property Taxation and Real Estate Price Dispersion.
 
