@@ -8,11 +8,17 @@ permalink: /research
 
 ## Work in Progress
 
-### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP)				
+### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP)
 
 This paper develops a parsimonious housing market model that conceptualizes residential real estate as both a non-tradable consumption good and an investment asset. The framework embeds households’ joint location–tenure choices, which shape local price-to-rent ratios. I test its predictions using a granular dataset of Italian housing prices and rents and a shift-share instrumental variable design exploiting heterogeneity in mortgage uptake across age groups. The results show that mortgage rate shocks induce spatially asymmetric responses in prices, rents, price-to-rent ratios, population, and tenure choices, consistent with the model’s implications. A structural estimation reproduces these heterogeneous effects and indicates that a positive mortgage rate shock alleviates spatial welfare inequality and narrows the divide between renters and homeowners.
 
 JEL codes: E22, G12, G21, R21, R23, R31
+
+<a href="{{ site.baseurl }}/assets/file/JMP.pdf" 
+   target="_blank" rel="noopener"
+   style="display:inline-block; padding:0.6em 1.2em; background:#0077b6; color:white; border-radius:8px; text-decoration:none;">
+   📄 Leggi il mio Job Market Paper
+</a>
 
 <figure>
   <img src="/assets/images/PriceandRentMaps.png" alt="Price and Rent Elasticities" width="900">
