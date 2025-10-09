@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching
 ---
 
+<link rel="stylesheet" href="/assets/css/override.css">
+
 ## Teaching Assistant
 1. Economia Modulo 1 (Microeconomia) since 09/2022. 
 2. Econometrics since 02/2023.
