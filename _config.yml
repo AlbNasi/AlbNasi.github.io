@@ -2,3 +2,9 @@ title: "Alberto Nasi"
 theme: minima
 url: "https://albertonasi.github.io"
 baseurl: "/home"
+
+header_pages:
+  - index.md
+  - Research.md
+  - teaching.md
+  - contacts.md
