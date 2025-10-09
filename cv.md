@@ -7,8 +7,14 @@ permalink: /cv
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <!-- Visualizzazione embedded con fallback -->
-<div class="pdf-fullbleed" style="display: flex; justify-content: center; overflow-x: auto; left: 50%;
-  right: 50%; width: 1200px;">
+<div position: relative;
+  left: 50%;
+  right: 50%;
+  width: 1200px;              
+  transform: translateX(-50%);
+  margin: 2em 0;
+  text-align: center;
+">
   <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
