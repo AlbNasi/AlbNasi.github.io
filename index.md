@@ -3,6 +3,8 @@ layout: home
 title: Welcome
 ---
 
+<link rel="stylesheet" href="/assets/css/override.css">
+
 I am a Ph.D. candidate in Economics at Bocconi University, Italy.
 
 
