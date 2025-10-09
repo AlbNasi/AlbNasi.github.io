@@ -1,0 +1,21 @@
+/* Centra tutto il contenuto principale del sito */
+body {
+  text-align: center;
+}
+
+/* Imposta larghezza e margini */
+main, article, section, .page-content {
+  margin: 0 auto;
+  max-width: 900px; /* puoi regolare la larghezza */
+}
+
+/* Centra immagini e figure */
+img, figure {
+  display: block;
+  margin: 1em auto;
+}
+
+/* Centra titoli e paragrafi */
+h1, h2, h3, h4, h5, h6, p {
+  text-align: center;
+}
