@@ -53,5 +53,4 @@ JEL codes: G12, H24, R21, R31, R38
 
 ## Work in Progress
 
-### Location, Fertility, and Growth
-(Joint with Cheolhwan Kim)
+### Location, Fertility, and Growth (with Cheolhwan Kim)
