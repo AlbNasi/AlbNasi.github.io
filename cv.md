@@ -11,7 +11,7 @@ permalink: /cv
     Apri in una nuova scheda
   </a>
   &nbsp;
-  <a href="{{ site.baseurl }}/assets/files/cv.pdf" download 
+  <a href="/assets/files/cv.pdf" download 
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
     Scarica PDF
   </a>
