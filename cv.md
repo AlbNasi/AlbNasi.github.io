@@ -16,6 +16,7 @@ permalink: /cv
     style="margin: 0 auto; display: block;"
   >
     Your browser does not support PDF previews.
+    
   <a href="/assets/files/AlbertoNasi_CV.pdf">Click here to download the PDF</a>.
 </object>
 </div>
