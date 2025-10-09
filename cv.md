@@ -11,7 +11,7 @@ permalink: /cv
   <object 
     data="{{ site.baseurl }}/assets/files/cv.pdf"
     type="application/pdf"
-    width="100%"
+    width="200%"
     height="1200px"
     style="max-width: 1200px; margin: 0 auto; border: 1px solid #ccc;"
   >
