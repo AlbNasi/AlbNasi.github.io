@@ -29,7 +29,7 @@ permalink: /cv
 
 
 <!-- Pulsanti rapidi -->
-<p style="text-align:center; margin: 0 0 0.8rem;">
+<p style="text-align:center; margin: 0 0 1rem;">
   <a href="/assets/files/AlbertoNasi_CV.pdf" target="_blank" rel="noopener" 
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
     Open in a new tab
