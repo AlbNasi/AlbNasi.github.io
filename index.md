@@ -3,7 +3,15 @@ layout: page
 title: Welcome
 ---
 
-<div class="banner"></div>
+<div style="
+  width: 100vw;
+  height: 350px;
+  margin: 0;
+  padding: 0;
+  background-image: url('/assets/images/booth.jpg');
+  background-size: cover;
+  background-position: center;
+"></div>
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
