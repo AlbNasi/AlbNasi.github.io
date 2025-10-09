@@ -9,7 +9,7 @@ permalink: /cv
 <!-- Visualizzazione embedded con fallback -->
 <div style="display: flex; justify-content: center; overflow-x: auto;">
   <object 
-    data="{{ site.baseurl }}/assets/files/cv.pdf"
+    data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="200%"
     height="1500px"
