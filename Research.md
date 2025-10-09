@@ -13,7 +13,7 @@ This paper develops a parsimonious housing market model that conceptualizes resi
 JEL codes: E22, G12, G21, R21, R23, R31
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/PriceandRentMaps.png" alt="Price and Rent Elasticities" width="250">
+  <img src="AlbNasi.github.io/assets/images/PriceandRentMaps.png" alt="Price and Rent Elasticities" width="250">
   <figcaption>On the left I plot the estimated local labor market price elasticities with respect to the local mortgage interest rates on the map of Italy. On the right I plot the estimated local labor market rent elasticities with respect to the local mortgage interest rates. If the estimated elasticity is positive I plot the results in scales of green, while if the estimated elasticity is negative I plot the results in scales of red. It is possible to observe that the local responses of both prices and rents with respect to the local mortgage interest rate vary both in magnitude and direction.</figcaption>
 </figure>
 
@@ -29,6 +29,6 @@ I test the claim that property taxes reduce the price dispersion across properti
 JEL codes: G12, H24, R21, R31, R38
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/MilanMap.jpg" alt="Milan Fiscal Map" width="250">
+  <img src="AlbNasi.github.io/assets/images/MilanMap.jpg" alt="Milan Fiscal Map" width="250">
   <figcaption>The picture represent the map used by the Italian real estate property evaluation in the context of Milan. Each area is considered by the 1993 law on real estate property taxation for differentiating the local evaluations. I exploit these differences in order to estimate the effect of the Italian property taxation on different types of residential properties.</figcaption>
 </figure>
