@@ -8,7 +8,7 @@ permalink: /cv
 
 <!-- Visualizzazione embedded con fallback -->
 <div style="
-  width: 800px;
+  width: 600px;
   max-width: 1200px;       /* larghezza massima del PDF */
   margin: 0 auto;          /* centra il contenitore */
   padding: 1em 0;          /* spazio sopra e sotto */
