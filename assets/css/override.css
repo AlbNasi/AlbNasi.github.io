@@ -1,5 +1,5 @@
-/* Centra tutto il contenuto principale del sito */
-body, p {
+
+p {
   text-align: justify;
   text-justify: inter-word; /* migliora la spaziatura tra parole */
   line-height: 1.6;
