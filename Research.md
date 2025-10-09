@@ -17,6 +17,8 @@ JEL codes: E22, G12, G21, R21, R23, R31
   <figcaption style="font-size: 0.9em; color: #666; text-align: justify; margin-top: 0.5em;">
   <figcaption>On the left I plot the estimated local labor market price elasticities with respect to the local mortgage interest rates on the map of Italy. On the right I plot the estimated local labor market rent elasticities with respect to the local mortgage interest rates. If the estimated elasticity is positive I plot the results in scales of green, while if the estimated elasticity is negative I plot the results in scales of red. It is possible to observe that the local responses of both prices and rents with respect to the local mortgage interest rate vary both in magnitude and direction.</figcaption>
 </figure>  
+
+
   
 Presented:
 - 13th European Meeting of the Urban Economics Association (preliminary version titled: "Geography in a Partially Segmented Housing Market").
