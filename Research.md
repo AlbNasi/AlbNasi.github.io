@@ -14,10 +14,10 @@ This paper develops a parsimonious housing market model that conceptualizes resi
 
 JEL codes: E22, G12, G21, R21, R23, R31
 
-<a href="{{ site.baseurl }}/assets/file/JMP.pdf" 
+<a href="{{ site.baseurl }}/assets/file/AlbertoNasi_JMP.pdf" 
    target="_blank" rel="noopener"
    style="display:inline-block; padding:0.6em 1.2em; background:#0077b6; color:white; border-radius:8px; text-decoration:none;">
-   📄 Leggi il mio Job Market Paper
+   Link to Working Paper
 </a>
 
 <figure>
