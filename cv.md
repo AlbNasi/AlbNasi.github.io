@@ -4,6 +4,8 @@ title: "Curriculum Vitae"
 permalink: /cv
 ---
 
+<link rel="stylesheet" href="/assets/css/override.css">
+
 <!-- Visualizzazione embedded con fallback -->
 <object data="/assets/files/AlbertoNasi_CV.pdf"
         type="application/pdf"
