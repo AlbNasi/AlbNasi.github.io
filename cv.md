@@ -12,8 +12,8 @@ permalink: /cv
     data="{{ site.baseurl }}/assets/files/cv.pdf"
     type="application/pdf"
     width="200%"
-    height="1200px"
-    style="max-width: 1200px; margin: 0 auto; border: 1px solid #ccc;"
+    height="1500px"
+    style="max-width: 1500px; margin: 0 auto; border: 1px solid #ccc;"
   >
     Your browser does not support PDF previews.
     
