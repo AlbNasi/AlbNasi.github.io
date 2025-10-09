@@ -7,13 +7,13 @@ permalink: /cv
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <!-- Visualizzazione embedded con fallback -->
-<div style="display: flex; justify-content: center; overflow-x: auto;">
+<div style="display: flex; justify-content: center; overflow-x: auto; width: 1200px;">
   <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
-    width="200%"
+    width="100%"
     height="600px"
-    style="max-width: 1500px; margin: 2em; border: 1px solid #ccc;"
+    style="max-width: 1200px; margin: 2em; border: 1px solid #ccc;"
   >
     Your browser does not support PDF previews.
     
