@@ -13,7 +13,7 @@ permalink: /cv
     type="application/pdf"
     width="200%"
     height="1500px"
-    style="max-width: 1500px; margin: 0 auto; border: 1px solid #ccc;"
+    style="max-width: 1500px; margin: 2em; border: 1px solid #ccc;"
   >
     Your browser does not support PDF previews.
     
