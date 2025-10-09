@@ -8,10 +8,9 @@ permalink: /cv
 
 <!-- Visualizzazione embedded con fallback -->
 <div style="
-  width: 100%;
-  max-width: 1200px;       /* larghezza massima del PDF */
-  margin: 0 auto;          /* centra il contenitore */
-  padding: 1em 0;          /* spazio sopra e sotto */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
 ">
 <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
