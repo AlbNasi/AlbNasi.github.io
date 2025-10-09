@@ -19,7 +19,7 @@ JEL codes: E22, G12, G21, R21, R23, R31
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
    Working Paper
 </a>
-
+&nbsp;
 <a href="/assets/files/AlbertoNasi_JMP_Slides.pdf" 
    target="_blank" rel="noopener" 
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
