@@ -45,3 +45,7 @@ JEL codes: G12, H24, R21, R31, R38
   The picture represent the map used by the Italian real estate property evaluation in the context of Milan. Each area is considered by the 1993 law on real estate property taxation for differentiating the local evaluations. I exploit these differences in order to estimate the effect of the Italian property taxation on different types of residential properties.</figcaption>
 </figure>  
 
+##Work in Progress
+
+### Location, Fertility, and Growth
+(Joint with Cheolhwan Kim)
