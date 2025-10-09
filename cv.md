@@ -10,7 +10,7 @@ permalink: /cv
 <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
-    width="100%"
+    width="150%"
     height="600px"
     style="max-width: 1200px; margin: 2em; border: 1px solid #ccc;"
   >
