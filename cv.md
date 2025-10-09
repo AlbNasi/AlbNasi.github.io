@@ -12,7 +12,7 @@ permalink: /cv
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="200%"
-    height="400px"
+    height="600px"
     style="max-width: 1500px; margin: 2em; border: 1px solid #ccc;"
   >
     Your browser does not support PDF previews.
