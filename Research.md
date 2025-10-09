@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research
 ---
 
+<link rel="stylesheet" href="/assets/css/override.css">
+
 ## Work in Progress
 
 ### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP)				
