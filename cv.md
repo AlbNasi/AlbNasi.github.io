@@ -9,7 +9,7 @@ permalink: /cv
 <!-- Visualizzazione embedded con fallback -->
 <object data="/assets/files/AlbertoNasi_CV.pdf"
         type="application/pdf"
-        width="100%"
+        width="200%"
         height="800px">
   Il tuo browser non supporta l’anteprima dei PDF.
   <a href="/assets/files/AlbertoNasi_CV.pdf">Clicca qui per scaricare il PDF</a>.
