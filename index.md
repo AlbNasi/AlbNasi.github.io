@@ -10,7 +10,9 @@ title: Welcome
   padding: 0;
   background-image: url('/assets/images/booth.jpg');
   background-size: cover;
-  background-position: left;
+  background-position: center;
+  left: 50%;
+  right:50%;
 "></div>
 
 <link rel="stylesheet" href="/assets/css/override.css">
