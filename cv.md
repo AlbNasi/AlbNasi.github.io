@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Teaching"
+permalink: /cv
+---
+
 <!-- Pulsanti rapidi -->
 <p style="text-align:center; margin: 0 0 1rem;">
   <a href="/assets/files/cv.pdf" target="_blank" rel="noopener" 
