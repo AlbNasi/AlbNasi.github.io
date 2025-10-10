@@ -15,6 +15,8 @@ title: Welcome
   right:50%;
 "></div>
 
+# {{ page.title }}
+
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <figure>
