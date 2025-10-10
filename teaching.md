@@ -16,3 +16,8 @@ permalink: /teaching
 
 ### Office Hours
 Under appointment.
+
+<br>
+<br>
+
+<div class="fullbleed-banner"></div>
