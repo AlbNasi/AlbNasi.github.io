@@ -3,17 +3,9 @@ layout: page
 title: Welcome
 ---
 
-<div style="
-  width: 100vw;
-  height: 350px;
-  margin: 0;
-  padding: 0;
-  background-image: url('/assets/images/booth.jpg');
-  background-size: cover;
-  background-position: center;
-  left: 50%;
-  right:50%;
-"></div>
+<div class="page-banner">
+  <img src="{{ site.baseurl }}/assets/images/booth.jpg" alt="Banner" class="banner-img">
+</div>
 
 # {{ page.title }}
 
