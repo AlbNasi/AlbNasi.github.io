@@ -22,18 +22,14 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-.page-banner {
-  position: relative;
-  width: 100vw;                     /* larghezza uguale alla finestra */
-  margin-left: calc(50% - 50vw);    /* “buca” il wrapper del tema */
-  margin-right: calc(50% - 50vw);
-  overflow: hidden;
-}
+/* Evita micro-shift dovuti alla scrollbar e blocca lo scroll orizzontale */
+html { overflow-y: scroll; }
+body { overflow-x: hidden; }
 
-.page-banner .banner-img {
-  width: 100%;
-  height: 300px;                    /* regola altezza banner */
-  object-fit: cover;                /* taglia l'immagine senza deformarla */
-  object-position: center;          /* centrata orizzontalmente */
-  display: block;
-}
+/* Banner full-bleed che buca il wrapper */
+.fullbleed-banner {
+  width: 100vw;
+  height: 320px; /* regola l’altezza a piacere */
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  background: url('{{ site.baseurl }}/assets/images/booth.jpg') center/cover no-repeat;
