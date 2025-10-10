@@ -189,11 +189,11 @@ body { overflow-x: visible; }
 /* ===== Anti-zoom/tagli causati da sezioni full-bleed sui telefoni ===== */
 @media (max-width: 768px) {
   .fullbleed-banner {
-    width: 100%;              /* invece di 100vw su mobile */
+    width: 150%;              /* invece di 100vw su mobile */
     margin-left: 0;
     margin-right: 0;
     padding-inline: 2vw;
-    height: clamp(80px, 10vw, 240px);
+    height: clamp(80px, 12vw, 240px);
   }
 }
 
