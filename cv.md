@@ -40,3 +40,8 @@ permalink: /cv
     Download PDF
   </a>
 </p>
+
+<br>
+<br>
+
+<div class="fullbleed-banner"></div>
