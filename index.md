@@ -33,4 +33,4 @@ I will be on the job market for the academic year 2025/26. Please do not hesitat
 <br>
 <br>
 
-<div class="fullbleed-banner"></div>
+<div class="fullbleed-banner" style="background-image:url('/assets/images/booth.jpg');"> </div>
