@@ -135,7 +135,7 @@ body { overflow-x: visible; }
 .site-title {
   font-size: clamp(1.1rem, 4vw, 1.5rem);
   line-height: 1.2;
-  white-space: normal;      /* consenti a capo */
+  /* white-space: normal;      /* consenti a capo */
   word-break: break-word;   /* spezza titoli lunghi */
   min-width: 0;
   max-width: 100%;
@@ -193,7 +193,7 @@ body { overflow-x: visible; }
     margin-left: 0;
     margin-right: 0;
     padding-inline: 2vw;
-    height: clamp(120px, 28vw, 240px);
+    height: clamp(80px, 10vw, 240px);
   }
 }
 
