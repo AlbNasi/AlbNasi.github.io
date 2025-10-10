@@ -1,36 +1,55 @@
-
+/* Paragrafi leggibili e giustificati */
 p {
   text-align: justify;
-  text-justify: inter-word; /* migliora la spaziatura tra parole */
+  text-justify: inter-word;
   line-height: 1.6;
+  hyphens: auto;                 /* sillabazione migliore con <html lang="it"> */
 }
 
-/* 0) Reset utile per i calcoli responsive */
+/* 0) Reset per calcoli responsive */
 *,
 *::before,
 *::after { box-sizing: border-box; }
 
-/* 1) Tipografia fluida e leggibile ovunque */
-html { 
+/* 1) Tipografia fluida */
+html {
   font-size: 16px;
   overflow-y: scroll;
 }
-
 body {
-  -webkit-text-size-adjust: 100%; /* iOS */
+  -webkit-text-size-adjust: 100%;
   line-height: 1.6;
   font-size: clamp(15px, 1.1vw + 0.9rem, 18px);
   margin: 0;
 }
 
-/* 2) Layout del contenuto: centrato ma con respiro ai lati */
-.page-content, main, article, section, .wrapper {
-  max-width: 1000px;          /* desktop */
+/* 2) Contenuto centrato con respiro ai lati */
+.wrapper,
+.page-content,
+main,
+article,
+section {
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 0 1.25rem;        /* gutter laterale */
+  padding-inline: 4vw;          /* gutter laterale fluido */
 }
 
-/* 3) Immagini e figure sempre adattive */
+/* 3) Evita testi/URL che “escono” dai bordi */
+.page-content p,
+.page-content li,
+.page-content blockquote,
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6 {
+  overflow-wrap: anywhere;
+  word-break: break-word;       /* fallback */
+  hyphens: auto;
+}
+
+/* 4) Media adattivi */
 img, video, figure {
   max-width: 100%;
   height: auto;
@@ -38,33 +57,35 @@ img, video, figure {
   margin: 1em auto;
 }
 
-/* 4) Tabelle e code block che non “rompono” la pagina */
+/* 5) Tabelle e code block scrollabili se larghi */
 table, pre, code, .highlight {
   max-width: 100%;
   overflow-x: auto;
 }
 
-/* 5) Link e target tap più comodi su mobile */
+/* 6) Target tap comodi su mobile */
 a { touch-action: manipulation; }
 a, button { min-height: 44px; }
 
-/* Centra titoli e paragrafi */
-h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-}
+/* 7) Titoli centrati */
+h1, h2, h3, h4, h5, h6 { text-align: center; }
 
-/* Banner full-bleed che buca il wrapper */
+/* 8) Banner full-bleed (con leggero margine interno) */
 .fullbleed-banner {
   width: 100vw;
-  height: 320px; /* regola l’altezza a piacere */
+  height: 320px;                                   /* regola a piacere */
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  background: url('/assets/images/booth.jpg') center/cover no-repeat;
+  padding-inline: 3vw;                             /* respiro ai lati */
+  box-sizing: border-box;
+  background: center/cover no-repeat;
+  /* background-image: url('/assets/images/booth.jpg');  <-- vedi nota sotto */
 }
 @media (max-width: 768px) {
   .fullbleed-banner { height: 200px; }
 }
 
+/* 9) Footer centrato */
 .custom-footer {
   margin-top: 2rem;
   color: #777;
@@ -73,3 +94,6 @@ h1, h2, h3, h4, h5, h6 {
   border-top: 1px solid #e5e5e5;
   text-align: center;
 }
+
+/* 10) Evita “tagli” orizzontali globali */
+body { overflow-x: visible; }
