@@ -97,3 +97,37 @@ h1, h2, h3, h4, h5, h6 { text-align: center; }
 
 /* 10) Evita “tagli” orizzontali globali */
 body { overflow-x: visible; }
+
+/* 11) HEADER MINIMA: allinea navbar al corpo e previeni zoom/tagli */
+.site-header,
+.site-footer { width: 100%; }
+
+.site-header .wrapper,
+.site-footer .wrapper {
+  max-width: 1000px;          /* usa lo stesso valore del contenuto */
+  margin: 0 auto;
+  padding-inline: 4vw;        /* gutter fluido come il corpo */
+  box-sizing: border-box;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  flex-wrap: wrap;            /* su mobile titolo/menu possono andare a capo */
+}
+
+.site-title,
+.site-nav {
+  min-width: 0;               /* consenti di ridursi dentro il flex container */
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Menu a tendina di Minima: adattalo alla larghezza disponibile */
+@media (max-width: 768px) {
+  .site-nav { width: 100%; }          /* il menu occupa la riga sotto al titolo */
+  .site-nav .page-link { white-space: nowrap; }
+}
