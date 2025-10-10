@@ -13,10 +13,7 @@ permalink: /cv
     width="100%"
     height="1000px"
     style="border: 1px solid #ddd;">
-    Your browser does not display PDF files. 
-    <a href="/assets/files/AlbertoNasi_CV.pdf" target="_blank" rel="noopener">Open</a>
-    ·
-    <a href="/assets/files/AlbertoNasi_CV.pdf" download>Download PDF</a>
+    Your browser does not display PDF files.
   </object>
 </div>
 
