@@ -122,6 +122,8 @@ body { overflow-x: visible; }
 
 /* Titolo che si adatta e non “spinge” fuori */
 .site-title {
+  display: flex;
+  align-items: center;
   font-size: clamp(1.1rem, 4vw, 1.5rem);
   line-height: 1.2;
   /* white-space: normal;      /* consenti a capo */
