@@ -40,6 +40,10 @@ body { overflow-x: hidden; }
   display: none !important; 
 }
 
+.site-footer .footer-col-3 { 
+  display: none !important; 
+}
+
 /* Centra il contenuto rimanente nel footer */
 .site-footer .footer-col-wrapper {
   display: flex;
