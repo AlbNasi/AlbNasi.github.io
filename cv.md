@@ -11,7 +11,7 @@ permalink: /cv
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="100%"
-    height="400px"
+    height="500px"
     style="border: 1px solid #ddd;">
     Your browser does not display PDF files.
   </object>
