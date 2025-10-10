@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 { text-align: center; }
   padding-inline: 3vw;                             /* respiro ai lati */
   box-sizing: border-box;
   background: center/cover no-repeat;
-  /* background-image: url('/assets/images/booth.jpg');  <-- vedi nota sotto */
+  background-image: url('/assets/images/booth.jpg');
 }
 @media (max-width: 768px) {
   .fullbleed-banner { height: 200px; }
