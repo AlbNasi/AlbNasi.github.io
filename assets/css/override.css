@@ -152,7 +152,7 @@ body { overflow-x: visible; }
 } */
 
 .site-nav .page-link {
-  white-space: nowrap;
+  /* white-space: nowrap; */
   display: inline-block;
   padding: .25rem 0;
 }
