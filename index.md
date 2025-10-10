@@ -28,6 +28,12 @@ I will be on the job market for the academic year 2025/26. Please do not hesitat
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
     Link to CV
   </a>
+  &nbsp;
+  <a href="/assets/files/AlbertoNasi_JMP.pdf" 
+   target="_blank" rel="noopener" 
+     style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
+   Link to JMP
+  </a>
 </p>
 
 <br>
