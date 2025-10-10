@@ -10,7 +10,8 @@ permalink: /cv
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  margin: 2em calc(50% - 50vw);
+  padding: 0 2vw;              /* ← margine interno a destra e sinistra */
+  box-sizing: border-box;      /* mantiene la larghezza totale 100vw */
 ">
   <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
