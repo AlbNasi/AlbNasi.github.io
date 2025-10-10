@@ -1,12 +1,9 @@
-
-<div class="fullbleed-banner"></div>
-
 ---
 layout: page
 title: Welcome
 ---
 
-# {{ page.title }}
+<div class="fullbleed-banner"></div>
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
