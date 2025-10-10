@@ -35,6 +35,24 @@ body { overflow-x: hidden; }
   background: url('/assets/images/booth.jpg') center/cover no-repeat;
 }
 
+/* Full-bleed PDF displayer */
+.pdf-fullbleed {
+  width: 100vw;                     /* copre tutta la finestra */
+  margin-left: calc(50% - 50vw);    /* "buca" il wrapper del tema */
+  margin-right: calc(50% - 50vw);
+  margin-top: 2em;
+  margin-bottom: 2em;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.pdf-fullbleed object {
+  width: 100%;
+  height: 1000px;                   /* regola l’altezza a piacere */
+  border: none;                     /* o 1px solid #ccc se vuoi bordo */
+  display: block;
+}
+
 .custom-footer {
   margin-top: 2rem;
   color: #777;
