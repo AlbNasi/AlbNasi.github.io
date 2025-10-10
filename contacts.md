@@ -8,9 +8,11 @@ permalink: /contacts
 
 I welcome opportunities to connect and collaborate on shared research interests!
 
-Email: alberto.nasi@phd.unibocconi.it
+Email: [alberto.nasi@phd.unibocconi.it](alberto.nasi@phd.unibocconi.it)
 
-Office: 5-E2-03 Röntgen Building, Bocconi University.
+Office: 5-E2-03  
+Röntgen Building, Bocconi University  
+Via Röntgen 1, 20136 Milano, Italy
 
 Please find me on:
 - [Github](https://github.com/AlbNasi).
