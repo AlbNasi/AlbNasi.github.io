@@ -39,6 +39,8 @@ Presented:
 - 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
 - 2025 Econometric Society European Winter Meeting.
 
+## Work in progress
+
 ### Property Taxation and Real Estate Price Dispersion.
 
 I test the claim that property taxes reduce the price dispersion across properties of different quality thus reducing wealth inequality. I exploit the removal of the Italian property tax on main residences and its design to identify the effect of such tax on property prices. The results are consistent with the previous claims but heterogeneous in magnitude across different property markets. Additionally, I design a monocentric city model to connect the real estate asset literature with the urban economics one, and I find that the former has been ignoring two channels for the property tax to affect prices: the ability of households to switch between properties of different quality and its effect on the local consumption good bundle price.				
