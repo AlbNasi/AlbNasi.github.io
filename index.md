@@ -1,9 +1,10 @@
+
+<div class="fullbleed-banner"></div>
+
 ---
 layout: page
 title: Welcome
 ---
-
-<div class="fullbleed-banner"></div>
 
 # {{ page.title }}
 
