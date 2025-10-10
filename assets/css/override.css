@@ -163,7 +163,7 @@ body { overflow-x: visible; }
     /* width: 100%; */
     display: flex;
     flex-direction: column;
-    align-items: flex-start;  /* o center se vuoi centrarle */
+    /* align-items: flex-start;  /* o center se vuoi centrarle */
     padding: 0.5em 0;
   }
 
@@ -209,7 +209,7 @@ body { overflow-x: visible; }
     width: 100%;              /* invece di 100vw su mobile */
     margin-left: 0;
     margin-right: 0;
-    padding-inline: 2vw;
+    padding-inline: 3vw;
     height: clamp(80px, 12vw, 240px);
   }
 }
