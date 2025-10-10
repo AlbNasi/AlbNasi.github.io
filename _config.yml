@@ -1,7 +1,16 @@
 title: "Alberto Nasi"
 theme: minima
-url: "https://albertonasi.github.io"
-baseurl: "/home"
+url: "https://albnasi.github.io"
+baseurl: "albnasi.github"                             # "" per sito utente (username.github.io). Per project page usa "/nome-repo"
+
+author:
+  name: "Alberto Nasi"
+  email: "alberto.nasi@phd.unibocconi.it"
+
+# Plugin ufficiali supportati da GitHub Pages
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 header_pages:
   - index.md
