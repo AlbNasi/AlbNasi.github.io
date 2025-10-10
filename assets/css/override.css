@@ -21,7 +21,6 @@ body {
   line-height: 1.6;
   font-size: clamp(15px, 1.1vw + 0.9rem, 18px);
   margin: 0;
-  overflow-x: hidden; 
 }
 
 /* 2) Layout del contenuto: centrato ma con respiro ai lati */
