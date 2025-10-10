@@ -6,16 +6,19 @@ permalink: /cv
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
-<div class="pdf-fullbleed">
+<div style="max-width: 1200px; margin: 0 auto; padding: 1em 0;">
   <object 
-    data="/assets/files/cv.pdf"
+    data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="100%"
-    height="1000px">
+    height="1000px"
+    style="border: 1px solid #ddd;">
+    Your browser does not display PDF files. 
+    <a href="/assets/files/AlbertoNasi_CV.pdf" target="_blank" rel="noopener">Open</a>
+    ·
+    <a href="/assets/files/AlbertoNasi_CV.pdf" download>Download PDF</a>
   </object>
 </div>
-
-
 
 <!-- Pulsanti rapidi -->
 <p style="text-align:center; margin: 0 0 1rem;">
