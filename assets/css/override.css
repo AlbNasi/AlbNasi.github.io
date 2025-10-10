@@ -109,19 +109,3 @@ body { overflow-x: visible; }
   padding-inline: 4vw;        /* gutter fluido come il corpo */
   box-sizing: border-box;
 }
-
-.site-header .wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: .75rem;
-  flex-wrap: wrap;            /* su mobile titolo/menu possono andare a capo */
-}
-
-.site-title,
-.site-nav {
-  min-width: 0;               /* consenti di ridursi dentro il flex container */
-  max-width: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
