@@ -12,7 +12,11 @@ Email: alberto.nasi@phd.unibocconi.it
 
 Office: 5-E2-03 Röntgen Building, Bocconi University.
 
-Please find my Github profile [here](https://github.com/AlbNasi) and my LinkedIn profile [here](https://www.linkedin.com/in/alberto-nasi/).
+Please find me on:
+- [Github](https://github.com/AlbNasi).
+- [LinkedIn](https://www.linkedin.com/in/alberto-nasi/).
+- [X]([https://www..com/in/alberto-nasi/](https://x.com/Alberto_Nasi).
+- [https://substack.com/@albnasi?](Substack) (in Italian).
 
 <br>
 <br>
