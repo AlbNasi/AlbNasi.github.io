@@ -7,11 +7,11 @@ permalink: /teaching
 <link rel="stylesheet" href="/assets/css/override.css">
 
 ## Teaching Assistant
-- Economia Modulo 1 (Microeconomia).
+- Microeconomics 101 (in Italian).
 - Econometrics.
 
 ## Tutor
-- Economia Modulo 1 (Microeconomia).
+- Microeconomics 101 (in Italian).
 - Incentives Design and Policy.
 
 ### Office Hours
