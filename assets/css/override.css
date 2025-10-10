@@ -105,31 +105,20 @@ body { overflow-x: visible; }
 .site-header .wrapper,
 .site-footer .wrapper {
   max-width: 1000px;          /* usa lo stesso valore del contenuto */
+  align-items: center; 
   margin: 0 auto;
   padding-inline: 4vw;        /* gutter fluido come il corpo */
   box-sizing: border-box;
 }
 
-/* ===== NAVBAR MINIMA: stessa larghezza/padding del body e no overflow ===== */
-.site-header,
-.site-footer { width: 100%; }
-
-.site-header .wrapper,
-.site-footer .wrapper {
-  max-width: 1000px;      /* ← uguale al tuo contenuto */
-  margin: 0 auto;
-  padding-inline: 4vw;    /* stesso gutter del body */
-  box-sizing: border-box;
-}
-
-/* Header flessibile: titolo + menu non forzano lo zoom */
+/* Header flessibile: titolo + menu non forzano lo zoom 
 .site-header .wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: .75rem;
-  flex-wrap: wrap;        /* su mobile possono andare a capo */
-}
+  flex-wrap: wrap;        /* su mobile possono andare a capo
+} 
 
 /* Titolo che si adatta e non “spinge” fuori */
 .site-title {
