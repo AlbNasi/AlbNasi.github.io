@@ -8,7 +8,7 @@ permalink: /cv
 
 <div class="pdf-fullbleed">
   <object 
-    data="{{ site.baseurl }}/assets/files/cv.pdf"
+    data="/assets/files/cv.pdf"
     type="application/pdf"
     width="100%"
     height="1000px">
