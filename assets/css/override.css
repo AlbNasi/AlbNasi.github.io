@@ -5,26 +5,54 @@ p {
   line-height: 1.6;
 }
 
-/* Imposta larghezza e margini */
-main, article, section, .page-content {
-  margin: 0 auto;
-  max-width: 1000px; /* puoi regolare la larghezza */
+/* 0) Reset utile per i calcoli responsive */
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+/* 1) Tipografia fluida e leggibile ovunque */
+html { 
+  font-size: 16px;
+  overflow-y: scroll;
 }
 
-/* Centra immagini e figure */
-img, figure {
+body {
+  -webkit-text-size-adjust: 100%; /* iOS */
+  line-height: 1.6;
+  font-size: clamp(15px, 1.1vw + 0.9rem, 18px);
+  margin: 0;
+  overflow-x: hidden; 
+}
+
+/* 2) Layout del contenuto: centrato ma con respiro ai lati */
+.page-content, main, article, section, .wrapper {
+  max-width: 1000px;          /* desktop */
+  margin: 0 auto;
+  padding: 0 1.25rem;        /* gutter laterale */
+}
+
+/* 3) Immagini e figure sempre adattive */
+img, video, figure {
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 1em auto;
 }
+
+/* 4) Tabelle e code block che non “rompono” la pagina */
+table, pre, code, .highlight {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* 5) Link e target tap più comodi su mobile */
+a { touch-action: manipulation; }
+a, button { min-height: 44px; }
 
 /* Centra titoli e paragrafi */
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
-
-/* Evita micro-shift dovuti alla scrollbar e blocca lo scroll orizzontale */
-html { overflow-y: scroll; }
-body { overflow-x: hidden; }
 
 /* Banner full-bleed che buca il wrapper */
 .fullbleed-banner {
@@ -33,6 +61,9 @@ body { overflow-x: hidden; }
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   background: url('/assets/images/booth.jpg') center/cover no-repeat;
+}
+@media (max-width: 768px) {
+  .fullbleed-banner { height: 200px; }
 }
 
 .custom-footer {
