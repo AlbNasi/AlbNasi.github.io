@@ -34,3 +34,16 @@ body { overflow-x: hidden; }
   margin-right: calc(50% - 50vw);
   background: url('/assets/images/booth.jpg') center/cover no-repeat;
 }
+
+/* Nasconde la colonna sinistra del footer Minima (dove di solito ricompare il titolo) */
+.site-footer .footer-col-1 { 
+  display: none !important; 
+}
+
+/* Centra il contenuto rimanente nel footer */
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  text-align: center;
+}
