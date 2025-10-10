@@ -6,12 +6,17 @@ permalink: /cv
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 1em 0;">
+<div style="
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin: 2em calc(50% - 50vw);
+">
   <object 
     data="/assets/files/AlbertoNasi_CV.pdf"
     type="application/pdf"
     width="100%"
-    height="500px"
+    height="550px"
     style="border: 1px solid #ddd;">
     Your browser does not display PDF files.
   </object>
