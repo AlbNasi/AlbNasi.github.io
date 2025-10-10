@@ -33,3 +33,4 @@ body { overflow-x: hidden; }
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   background: url('{{ site.baseurl }}/assets/images/booth.jpg') center/cover no-repeat;
+}
