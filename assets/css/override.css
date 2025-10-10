@@ -32,5 +32,5 @@ body { overflow-x: hidden; }
   height: 320px; /* regola l’altezza a piacere */
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  background: url('{{ site.baseurl }}/assets/images/booth.jpg') center/cover no-repeat;
+  background: url('/assets/images/booth.jpg') center/cover no-repeat;
 }
