@@ -23,6 +23,13 @@ My research has focused on the relationship between residential property prices,
 
 I will be on the job market for the academic year 2025/26. Please do not hesitate to contact me for further inquiries or to connect.
 
+<p style="text-align:center; margin: 0 0 1rem;">
+  <a href="/assets/files/AlbertoNasi_CV.pdf" target="_blank" rel="noopener" 
+     style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
+    Link to CV
+  </a>
+</p>
+
 <br>
 <br>
 
