@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome
-banner: /assets/images/booth.jpg
 ---
 
 <link rel="stylesheet" href="/assets/css/override.css">
@@ -20,3 +19,5 @@ My research has focused on the relationship between residential property prices,
 
 
 I will be on the job market for the academic year 2025/26. Please do not hesitate to contact me for further inquiries or to connect.
+
+<div class="fullbleed-banner"></div>
