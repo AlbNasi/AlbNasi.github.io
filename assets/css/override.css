@@ -34,15 +34,3 @@ body { overflow-x: hidden; }
   margin-right: calc(50% - 50vw);
   background: url('/assets/images/booth.jpg') center/cover no-repeat;
 }
-
-/* Titolo e header */
-.page-header {
-  text-align: center;
-  margin: 2em 0 1em 0;
-}
-
-.page-title {
-  font-size: 2.2em;
-  font-weight: 600;
-  margin: 0;
-}
