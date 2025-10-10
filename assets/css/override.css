@@ -34,3 +34,12 @@ body { overflow-x: hidden; }
   margin-right: calc(50% - 50vw);
   background: url('/assets/images/booth.jpg') center/cover no-repeat;
 }
+
+.custom-footer {
+  margin-top: 2rem;
+  color: #777;
+  font-size: .95rem;
+  padding: 1rem 0;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+}
