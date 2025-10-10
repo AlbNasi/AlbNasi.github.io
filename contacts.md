@@ -23,4 +23,4 @@ Please find me on:
 <br>
 <br>
 
-<div class="fullbleed-banner"></div>
+<div class="fullbleed-banner" style="background-image:url('/assets/images/booth.jpg');"> </div>
