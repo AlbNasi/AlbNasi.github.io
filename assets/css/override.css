@@ -109,3 +109,93 @@ body { overflow-x: visible; }
   padding-inline: 4vw;        /* gutter fluido come il corpo */
   box-sizing: border-box;
 }
+
+/* ===== NAVBAR MINIMA: stessa larghezza/padding del body e no overflow ===== */
+.site-header,
+.site-footer { width: 100%; }
+
+.site-header .wrapper,
+.site-footer .wrapper {
+  max-width: 1000px;      /* ← uguale al tuo contenuto */
+  margin: 0 auto;
+  padding-inline: 4vw;    /* stesso gutter del body */
+  box-sizing: border-box;
+}
+
+/* Header flessibile: titolo + menu non forzano lo zoom */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  flex-wrap: wrap;        /* su mobile possono andare a capo */
+}
+
+/* Titolo che si adatta e non “spinge” fuori */
+.site-title {
+  font-size: clamp(1.1rem, 4vw, 1.5rem);
+  line-height: 1.2;
+  white-space: normal;      /* consenti a capo */
+  word-break: break-word;   /* spezza titoli lunghi */
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Menu: usa lo stesso spazio e consenti scroll orizzontale se serve */
+.site-nav {
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto;               /* evita taglio: meglio scroll che overflow */
+  -webkit-overflow-scrolling: touch;
+}
+.site-nav .page-link {
+  white-space: nowrap;
+  display: inline-block;
+  padding: .25rem 0;
+}
+
+/* Sui telefoni il menu occupa la riga sotto al titolo */
+@media (max-width: 768px) {
+  .site-nav { width: 100%; }
+}
+
+/* ===== FOOTER MINIMA: colonne responsive, stessa larghezza del body ===== */
+.site-footer .footer-col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+/* Annulla i float/width predefiniti di Minima e rendi le colonne elastiche */
+.site-footer .footer-col {
+  float: none !important;
+  width: auto !important;
+  flex: 1 1 220px;      /* ogni colonna può andare a capo su mobile */
+}
+
+/* Su mobile centra il contenuto del footer */
+@media (max-width: 768px) {
+  .site-footer .footer-col-wrapper {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+/* ===== Anti-zoom/tagli causati da sezioni full-bleed sui telefoni ===== */
+@media (max-width: 768px) {
+  .fullbleed-banner {
+    width: 100%;              /* invece di 100vw su mobile */
+    margin-left: 0;
+    margin-right: 0;
+    padding-inline: 4vw;
+    height: clamp(180px, 28vw, 240px);
+  }
+}
+
+/* Un filo di sicurezza contro il classico 1px di overflow */
+html { -webkit-text-size-adjust: 100%; overflow-y: scroll; }
+body { margin: 0; overflow-x: hidden; }
