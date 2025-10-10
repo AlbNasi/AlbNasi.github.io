@@ -7,7 +7,7 @@ permalink: /cv
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <div style="
-  width: 80vw;
+  width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   margin: 2em calc(50% - 50vw);
