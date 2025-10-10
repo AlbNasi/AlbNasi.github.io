@@ -157,7 +157,7 @@ body { overflow-x: visible; }
 }
 
 /* Sui telefoni il menu occupa la riga sotto al titolo */
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .site-nav { width: 100%; }
 }
 
