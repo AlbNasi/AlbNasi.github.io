@@ -6,24 +6,13 @@ permalink: /cv
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
-<!-- Visualizzazione embedded con fallback -->
-<div style="
-  width: 100%;
-  max-width: 1200px;       /* larghezza massima del PDF */
-  margin: 0 auto;          /* centra il contenitore */
-  padding: 1em 0;          /* spazio sopra e sotto */
-">
-<object 
-    data="/assets/files/AlbertoNasi_CV.pdf"
+<div class="pdf-fullbleed">
+  <object 
+    data="{{ site.baseurl }}/assets/files/cv.pdf"
     type="application/pdf"
     width="100%"
-    height="600px"
-    style="max-width: 1200px; margin: 2em; solid #ccc;"
-  >
-    Your browser does not support PDF previews.
-    
-  <a href="/assets/files/AlbertoNasi_CV.pdf">Click here to download the PDF</a>.
-</object>
+    height="1000px">
+  </object>
 </div>
 
 
