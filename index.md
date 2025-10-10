@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Welcome
+banner: /assets/images/booth.jpg
 ---
-
-<div class="fullbleed-banner"></div>
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
