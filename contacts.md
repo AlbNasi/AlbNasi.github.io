@@ -16,7 +16,7 @@ Please find me on:
 - [Github](https://github.com/AlbNasi).
 - [LinkedIn](https://www.linkedin.com/in/alberto-nasi/).
 - [X](https://x.com/Alberto_Nasi).
-- [https://substack.com/@albnasi?](Substack) (in Italian).
+- [Substack](https://substack.com/@albnasi?) (in Italian).
 
 <br>
 <br>
