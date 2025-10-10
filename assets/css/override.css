@@ -125,9 +125,3 @@ body { overflow-x: visible; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
-
-/* Menu a tendina di Minima: adattalo alla larghezza disponibile */
-@media (max-width: 768px) {
-  .site-nav { width: 100%; }          /* il menu occupa la riga sotto al titolo */
-  .site-nav .page-link { white-space: nowrap; }
-}
