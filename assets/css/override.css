@@ -193,7 +193,7 @@ body { overflow-x: visible; }
     margin-left: 0;
     margin-right: 0;
     padding-inline: 2vw;
-    height: clamp(180px, 28vw, 240px);
+    height: clamp(120px, 28vw, 240px);
   }
 }
 
