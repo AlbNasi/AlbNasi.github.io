@@ -144,11 +144,11 @@ body { overflow-x: visible; }
 }
 
 /* Menu: usa lo stesso spazio e consenti scroll orizzontale se serve */
-.site-nav {
+/*.site-nav {
   max-width: 100%;
   min-width: 0;
   overflow-x: auto;               /* evita taglio: meglio scroll che overflow */
-  -webkit-overflow-scrolling: touch;
+/*  -webkit-overflow-scrolling: touch;
 }
 .site-nav .page-link {
   white-space: nowrap;
