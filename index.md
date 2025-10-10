@@ -3,9 +3,7 @@ layout: page
 title: Welcome
 ---
 
-<div class="page-banner">
-  <img src="{{ site.baseurl }}/assets/images/booth.jpg" alt="Banner" class="banner-img">
-</div>
+<div class="fullbleed-banner"></div>
 
 # {{ page.title }}
 
