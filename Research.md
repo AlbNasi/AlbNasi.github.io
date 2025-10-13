@@ -32,8 +32,6 @@ JEL codes: E22, G12, G21, R21, R23, R31
   On the left I plot the estimated local labor market price elasticities with respect to the local mortgage interest rates on the map of Italy. On the right I plot the estimated local labor market rent elasticities with respect to the local mortgage interest rates. If the estimated elasticity is positive I plot the results in scales of green, while if the estimated elasticity is negative I plot the results in scales of red. It is possible to observe that the local responses of both prices and rents with respect to the local mortgage interest rate vary both in magnitude and direction.</figcaption>
 </figure>  
 
-        
-  
 Presented:
 - 13th European Meeting of the Urban Economics Association (preliminary version titled: "Geography in a Partially Segmented Housing Market").
 - 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets.
@@ -52,6 +50,18 @@ JEL codes: G12, H24, R21, R31, R38
   <figcaption style="font-size: 0.7em; color: #666; text-align: justify; margin-top: 0.5em;">
   The picture represent the map used by the Italian real estate property evaluation in the context of Milan. Each area is considered by the 1993 law on real estate property taxation for differentiating the local evaluations. I exploit these differences in order to estimate the effect of the Italian property taxation on different types of residential properties.</figcaption>
 </figure> 
+
+## Media
+### Caro Casa, Emergenza Nazionale o Problema Locale? (In Italian)
+L’intervento della presidente Meloni al Meeting di Rimini ha rimesso al centro dell’attenzione il Piano Casa del governo. L’idea di un’emergenza caro prezzi per il mercato immobiliare, però, si scontra con i dati registrati presso il Catasto dove i prezzi immobiliari e gli affitti nominali sono cresciuti meno dell’indice dei prezzi al consumo a livello nazionale fra il 2019 e il 2023. Infatti, solo le aree del paese più attrattive, il nord e il nord-est, verso le quali le persone tendono a trasferirsi soffrono di un aumento dei prezzi. Se il governo è interessato ad aumentare l’accessibilità del mercato immobiliare, deve tenere conto delle differenti traiettorie a livello locale e ideare politiche che ne tengano conto o il rischio sarà quello di esacerbare la percezione di un’emergenza caro casa.
+
+<i> Nasi, A. (2025, October). </i> Caro Casa, Emergenza Nazionale o Problema Locale? <i> Rivista Eco, 10. </i>
+
+<a href="https://www.rivistaeco.com/" 
+   target="_blank" rel="noopener" 
+     style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
+   Link to Article (forthcoming)
+</a>
 
 <br>
 <br>
