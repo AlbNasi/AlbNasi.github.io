@@ -6,6 +6,8 @@ permalink: /research
 
 <link rel="stylesheet" href="/assets/css/override.css">
 
+I am an urban economist specializing in the relationship between housing prices, rents, and their spatial distribution. My research focuses on the role of geography in shaping key dynamics of the housing market. I use granular data and state-of-the-art empirical identification strategies, combined with quantitative spatial models, to better understand the geographic behavior of households and its implications for the macroeconomy and public policy. More broadly, I am interested in how the spatial distribution of economic agents and their choices shape economic outcomes and interact with government policies.
+
 ## Working Papers
 
 ### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP)
