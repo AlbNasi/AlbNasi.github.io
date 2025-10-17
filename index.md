@@ -6,7 +6,7 @@ title: Welcome
 <link rel="stylesheet" href="/assets/css/override.css">
 
 <figure>
-  <img src="/assets/images/AlbertoNasiFotoBella2.jpg" alt="Foto profilo" width="250">
+  <img src="/assets/images/FotoDecente.png" alt="Foto profilo" width="250">
 </figure>
 
 <br>
