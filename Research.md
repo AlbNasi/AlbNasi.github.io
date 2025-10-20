@@ -9,7 +9,7 @@ permalink: /research
 I am an urban economist specializing in the relationship between housing prices, rents, and their spatial distribution. My research focuses on the role of geography in shaping key dynamics of the housing market. I use granular data and state-of-the-art empirical identification strategies, combined with quantitative spatial models, to better understand the geographic behavior of households and its implications for the macroeconomy and public policy. More broadly, I am interested in how the spatial distribution of economic agents and their choices shape economic outcomes and interact with government policies.
 
 ## Working Papers
-### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP) 
+### Mortgage Rates and the Price-to-Rent Ratio Across Space. (JMP) 
 
 This paper develops a parsimonious housing market model that conceptualizes residential real estate as both a non-tradable consumption good and an investment asset. The framework embeds households’ joint location–tenure choices, which shape local price-to-rent ratios. I test its predictions using a granular dataset of Italian housing prices and rents and a shift-share instrumental variable design exploiting heterogeneity in mortgage uptake across age groups. The results show that mortgage rate shocks induce spatially asymmetric responses in prices, rents, price-to-rent ratios, population, and tenure choices, consistent with the model’s implications. A structural estimation reproduces these heterogeneous effects and indicates that a positive mortgage rate shock alleviates spatial welfare inequality and narrows the divide between renters and homeowners.
 
@@ -52,7 +52,7 @@ JEL codes: G12, H24, R21, R31, R38
 </figure> 
 
 ## Media
-### In Italia la casa è un problema locale (In Italian)
+### In Italia la casa è un problema locale (In Italian).
 
 Non siamo inglesi: da noi il caro-casa non riguarda tutto il paese, ma solo alcune zone ben precise. I dati dei contratti registrati al catasto mostrano che aumenti dei prezzi superiori all’inflazione interessano infatti un numero esiguo di comuni. C’è però un problema reale: costo e canoni delle abitazioni salgono proprio nei luoghi che offrono più opportunità di lavoro e di studio. Sono le aree del Nord e del Nord-Est verso le quali si trasferiscono molte persone, che spesso preferirebbero affittare un alloggio e non comprarlo. Le azioni che il governo intende intraprendere in questo campo devono tener conto della geografia dei rincari del mercato immobiliare. Altrimenti c’è il rischio di aggravare la situazione, invece di migliorarla.
 
