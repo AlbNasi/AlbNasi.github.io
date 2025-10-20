@@ -12,7 +12,9 @@ I am an urban economist specializing in the relationship between housing prices,
 
 <details>
 <summary> 
+   
 ### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP) 
+
 </summary>
 
 This paper develops a parsimonious housing market model that conceptualizes residential real estate as both a non-tradable consumption good and an investment asset. The framework embeds households’ joint location–tenure choices, which shape local price-to-rent ratios. I test its predictions using a granular dataset of Italian housing prices and rents and a shift-share instrumental variable design exploiting heterogeneity in mortgage uptake across age groups. The results show that mortgage rate shocks induce spatially asymmetric responses in prices, rents, price-to-rent ratios, population, and tenure choices, consistent with the model’s implications. A structural estimation reproduces these heterogeneous effects and indicates that a positive mortgage rate shock alleviates spatial welfare inequality and narrows the divide between renters and homeowners.
