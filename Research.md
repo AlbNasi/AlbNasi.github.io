@@ -12,8 +12,9 @@ I am an urban economist specializing in the relationship between housing prices,
 
 <details>
 <summary> 
+<strong>
    
-### Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP) 
+Mortgage Rates and the Price-to-Rent Ratio Across Space (JMP) 
 
 </summary>
 
