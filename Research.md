@@ -56,7 +56,7 @@ JEL codes: G12, H24, R21, R31, R38
 
 L’intervento della presidente Meloni al Meeting di Rimini ha rimesso al centro dell’attenzione il Piano Casa del governo. L’idea di un’emergenza caro prezzi per il mercato immobiliare, però, si scontra con i dati registrati presso il Catasto dove i prezzi immobiliari e gli affitti nominali sono cresciuti meno dell’indice dei prezzi al consumo a livello nazionale fra il 2019 e il 2023. Infatti, solo le aree del paese più attrattive, il nord e il nord-est, verso le quali le persone tendono a trasferirsi soffrono di un aumento dei prezzi. Se il governo è interessato ad aumentare l’accessibilità del mercato immobiliare, deve tenere conto delle differenti traiettorie a livello locale e ideare politiche che ne tengano conto o il rischio sarà quello di esacerbare la percezione di un’emergenza caro casa.
 
-Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Eco, 10. </i>
+Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Eco, 10, 36-40 </i>
 
 <a href="https://www.rivistaeco.com/2025/10/20/in-italia-la-casa-e-un-problema-locale/" 
    target="_blank" rel="noopener" 
