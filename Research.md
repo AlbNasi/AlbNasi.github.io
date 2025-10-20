@@ -47,7 +47,12 @@ Presented:
 
 ## Work in progress
 
+<details>
+<summary>
+   
 ### Property Taxation and Real Estate Price Dispersion.
+
+</summary>
 
 I test the claim that property taxes reduce the price dispersion across properties of different quality thus reducing wealth inequality. I exploit the removal of the Italian property tax on main residences and its design to identify the effect of such tax on property prices. The results are consistent with the previous claims but heterogeneous in magnitude across different property markets. Additionally, I design a monocentric city model to connect the real estate asset literature with the urban economics one, and I find that the former has been ignoring two channels for the property tax to affect prices: the ability of households to switch between properties of different quality and its effect on the local consumption good bundle price.				
 
@@ -59,8 +64,15 @@ JEL codes: G12, H24, R21, R31, R38
   The picture represent the map used by the Italian real estate property evaluation in the context of Milan. Each area is considered by the 1993 law on real estate property taxation for differentiating the local evaluations. I exploit these differences in order to estimate the effect of the Italian property taxation on different types of residential properties.</figcaption>
 </figure> 
 
+</details>
+
 ## Media
+
+<details>
+<summary>
+   
 ### Caro Casa, Emergenza Nazionale o Problema Locale? (In Italian)
+</summary>
 L’intervento della presidente Meloni al Meeting di Rimini ha rimesso al centro dell’attenzione il Piano Casa del governo. L’idea di un’emergenza caro prezzi per il mercato immobiliare, però, si scontra con i dati registrati presso il Catasto dove i prezzi immobiliari e gli affitti nominali sono cresciuti meno dell’indice dei prezzi al consumo a livello nazionale fra il 2019 e il 2023. Infatti, solo le aree del paese più attrattive, il nord e il nord-est, verso le quali le persone tendono a trasferirsi soffrono di un aumento dei prezzi. Se il governo è interessato ad aumentare l’accessibilità del mercato immobiliare, deve tenere conto delle differenti traiettorie a livello locale e ideare politiche che ne tengano conto o il rischio sarà quello di esacerbare la percezione di un’emergenza caro casa.
 
 Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Eco, 10. </i>
@@ -70,6 +82,8 @@ Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Ec
      style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
    Link to Article
 </a>
+
+</details>
 
 <br>
 <br>
