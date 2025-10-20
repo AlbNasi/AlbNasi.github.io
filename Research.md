@@ -52,11 +52,11 @@ JEL codes: G12, H24, R21, R31, R38
 </figure> 
 
 ## Media
-### Caro Casa, Emergenza Nazionale o Problema Locale? (In Italian)
+### In Italia la casa è un problema locale (In Italian)
 
-L’intervento della presidente Meloni al Meeting di Rimini ha rimesso al centro dell’attenzione il Piano Casa del governo. L’idea di un’emergenza caro prezzi per il mercato immobiliare, però, si scontra con i dati registrati presso il Catasto dove i prezzi immobiliari e gli affitti nominali sono cresciuti meno dell’indice dei prezzi al consumo a livello nazionale fra il 2019 e il 2023. Infatti, solo le aree del paese più attrattive, il nord e il nord-est, verso le quali le persone tendono a trasferirsi soffrono di un aumento dei prezzi. Se il governo è interessato ad aumentare l’accessibilità del mercato immobiliare, deve tenere conto delle differenti traiettorie a livello locale e ideare politiche che ne tengano conto o il rischio sarà quello di esacerbare la percezione di un’emergenza caro casa.
+Non siamo inglesi: da noi il caro-casa non riguarda tutto il paese, ma solo alcune zone ben precise. I dati dei contratti registrati al catasto mostrano che aumenti dei prezzi superiori all’inflazione interessano infatti un numero esiguo di comuni. C’è però un problema reale: costo e canoni delle abitazioni salgono proprio nei luoghi che offrono più opportunità di lavoro e di studio. Sono le aree del Nord e del Nord-Est verso le quali si trasferiscono molte persone, che spesso preferirebbero affittare un alloggio e non comprarlo. Le azioni che il governo intende intraprendere in questo campo devono tener conto della geografia dei rincari del mercato immobiliare. Altrimenti c’è il rischio di aggravare la situazione, invece di migliorarla.
 
-Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Eco, 10, 36-40 </i>
+Nasi, A. (2025, October). In Italia la casa è un problema locale <i> Rivista Eco, 10, 36-40. </i>
 
 <a href="https://www.rivistaeco.com/2025/10/20/in-italia-la-casa-e-un-problema-locale/" 
    target="_blank" rel="noopener" 
