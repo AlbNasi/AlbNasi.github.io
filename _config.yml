@@ -23,4 +23,4 @@ include:
   - _includes
 
 head_includes:
-  - head-custom.html
+  - custom-head.html
