@@ -18,3 +18,9 @@ header_pages:
   - teaching.md
   - cv.md
   - contacts.md
+
+include:
+  - _includes
+
+head_includes:
+  - head-custom.html
