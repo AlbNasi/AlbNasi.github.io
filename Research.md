@@ -45,6 +45,12 @@ I test the claim that property taxes reduce the price dispersion across properti
 
 <b> JEL codes: </b> G12, H24, R21, R31, R38
 
+<a href="/assets/files/AlbertoNasi_Property.pdf" 
+   target="_blank" rel="noopener" 
+     style="display:inline-block; padding:0.6em 1em; border-radius:8px; text-decoration:none; border:1px solid #ccc;">
+   Working Paper
+</a>
+
 <figure>
   <img src="/assets/images/MilanMap.jpg" alt="Milan Fiscal Map" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.7em; color: #666; text-align: justify; margin-top: 0.5em;">
